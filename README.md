@@ -22,4 +22,4 @@ Run the exe file!
 Monish Giani (thelazybastard)
 
 ## License 
-[MIT License] (https://github.com/thelazybastard/overseer-of-secrets/blob/main/LICENSE)
+[MIT License](https://github.com/thelazybastard/overseer-of-secrets/blob/main/LICENSE)

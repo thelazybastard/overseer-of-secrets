@@ -9,8 +9,8 @@ class Program
         while (true)
         {
             Console.WriteLine("Welcome, what would you like to do?");
-            Console.WriteLine("A. Add Password \n B. View Passwords \n C. Delete Passwords \n D. Quit");
-            Console.WriteLine("Select one: ");
+            Console.WriteLine(" A. Add Password \n B. View Passwords \n C. Delete Passwords \n D. Quit");
+            Console.Write("Select one: ");
             string? choice = Console.ReadLine();
 
             if (string.IsNullOrWhiteSpace(choice))
@@ -38,9 +38,9 @@ class Program
 
     static void Add()
     {
-        Console.WriteLine("Username/Email: ");
+        Console.Write("Username/Email: ");
         string? email = Console.ReadLine();
-        Console.WriteLine("Password: ");
+        Console.Write("Password: ");
         string? password = Console.ReadLine();
 
         var newPassword = new Passwords(email, password);

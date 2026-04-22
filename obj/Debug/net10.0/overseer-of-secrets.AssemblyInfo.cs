@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("overseer-of-secrets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bf8d4b69a3f711db1a52a2f966d4620a093fb4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("overseer-of-secrets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("overseer-of-secrets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

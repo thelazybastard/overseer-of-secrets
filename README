@@ -1,10 +1,10 @@
-## Overseer of Secrets
+##Overseer of Secrets
 
 Manager to store your emails and passwords with the ability to view, delete, and add as many as you wish!
 
 All passwords are stored locally within the installation folder.
 
-### Downloads
+###Downloads
 
 #### On Linux: 
 
@@ -22,3 +22,4 @@ Run the exe file!
 Monish Giani (thelazybastard)
 
 ### License 
+https://github.com/thelazybastard/overseer-of-secrets/blob/main/LICENSE

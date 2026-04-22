@@ -9,13 +9,17 @@ All passwords are stored locally within the installation folder.
 ### On Linux: 
 
 Download: https://github.com/thelazybastard/overseer-of-secrets/releases/download/v1.0.0/overseer-of-secrets
+
 Run this in the terminal: 
+
 chmod +x ./overseer-of-secrets
+
 ./overseer-of-secrets
 
 ### On Windows:
 
 Download: https://github.com/thelazybastard/overseer-of-secrets/releases/download/v1.0.0/overseer-of-secrets.exe
+
 Run the exe file!
 
 ## Author
